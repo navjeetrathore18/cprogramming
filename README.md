@@ -3,7 +3,7 @@
 float area(int b,int h)
 { 
   float area;
-  area=(b*h)/2;
+  area=(b*h)*0.5;
   return area;
 }
 void main
